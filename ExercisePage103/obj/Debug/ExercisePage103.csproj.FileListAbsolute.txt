@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\bin\Debug\ExercisePage103.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\bin\Debug\ExercisePage103.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\bin\Debug\ExercisePage103.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\obj\Debug\ExercisePage103.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\obj\Debug\ExercisePage103.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\obj\Debug\ExercisePage103.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\ExercisePage103\ExercisePage103\obj\Debug\ExercisePage103.pdb
